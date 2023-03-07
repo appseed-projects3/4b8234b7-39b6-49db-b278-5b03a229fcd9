@@ -1,0 +1,23 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "material-kit",
+    "docker": "1",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "4b8234b7-39b6-49db-b278-5b03a229fcd9",
+    "task_info": "Upload Sources [0%] - 366 files",
+    "task_output": "4b8234b7-39b6-49db-b278-5b03a229fcd9.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-03-07-03-31-32",
+    "task_ts_start": "2023-03-07-03-31-30"
+}
